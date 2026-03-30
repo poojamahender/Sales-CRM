@@ -6,6 +6,7 @@ no backend, no database. Designed to help sales and GTM teams track
 leads, manage pipeline stages, monitor performance, and never miss a follow-up.
 
 ## 🔗 Live Demo
+https://poojamahender.github.io/Sales-CRM/
 > Open the file in any browser to run it instantly
 
 ## 🚀 What This Project Does
